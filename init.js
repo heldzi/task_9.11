@@ -28,6 +28,7 @@ function reset() {
     document.getElementById('prof').innerText = "";
     document.getElementById('second').innerText = "";
     document.getElementById('month').innerText = "";
+    document.getElementById('day').innerText = "";
 }
 
 document.querySelector('#reset').addEventListener('click', reset);
