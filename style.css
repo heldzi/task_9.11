@@ -1,0 +1,19 @@
+#update {
+    border-radius: 5px;
+    background-color:plum;
+    font-weight: bolder;
+    width: 100px;
+}
+
+#reset {
+    border-radius: 5px;
+    background-color:aquamarine;
+    font-weight: bolder;
+    width: 100px;
+}
+
+#prof {
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
